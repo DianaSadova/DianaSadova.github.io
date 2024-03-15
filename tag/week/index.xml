@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Week | Academic</title>
+    <link>http://localhost:1313/tag/week/</link>
+      <atom:link href="http://localhost:1313/tag/week/index.xml" rel="self" type="application/rss+xml" />
+    <description>Week</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Week</title>
+      <link>http://localhost:1313/tag/week/</link>
+    </image>
+    
+    <item>
+      <title>Дела недели (11-17 Марта)</title>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-1/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-1/</guid>
+      <description>&lt;h2 id=&#34;8-марта&#34;&gt;8 Марта&lt;/h2&gt;
+&lt;p&gt;Всемирный женский день начался неожиданно. Мужщины нашей групп договарились и подарили нам подарки. В начале дня, всему женскому колективу преподнести цветы и, в качестве бонуса, два тортика. Неделя началась очень с неожиданных подарков&lt;/p&gt;
+&lt;h2 id=&#34;масленица&#34;&gt;Масленица&lt;/h2&gt;
+&lt;p&gt;Немного о празднике. Масленица – это древний славянский праздник, пришедший из языческой культуры и сохранившийся после принятия христианства на Руси. Хоть это и языческий праздник от этого своего шарма он не теряет, наобород, очень мало людей знают о его происхождении.
+Но хоть это и праздник, но пары некто не отменял. Вперед, учится!&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

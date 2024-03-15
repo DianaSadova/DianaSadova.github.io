@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git | Academic</title>
+    <link>http://localhost:1313/tag/git/</link>
+      <atom:link href="http://localhost:1313/tag/git/index.xml" rel="self" type="application/rss+xml" />
+    <description>Git</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Git</title>
+      <link>http://localhost:1313/tag/git/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями. Git.</title>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-git/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-git/</guid>
+      <description>&lt;h2 id=&#34;введение&#34;&gt;Введение&lt;/h2&gt;
+&lt;p&gt;Что такое «Управление версиями»? Почему это так важно?&lt;/p&gt;
+&lt;p&gt;Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии&lt;/p&gt;
+&lt;h2 id=&#34;для-чего-же-она-нужна&#34;&gt;Для чего же она нужна&lt;/h2&gt;
+&lt;p&gt;Система управления версиями (VCS), также известная как система управления исходным кодом, — это программное обеспечение для отслеживания изменений в файловой системе и управления ими.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://https://www.google.com/url?sa=i&amp;amp;url=https%3A%2F%2Fbitbucket.org%2Fproduct%2Fru%2Fversion-control-software&amp;amp;psig=AOvVaw3umGowTs3O52qR51_36ml8&amp;amp;ust=1710615286738000&amp;amp;source=images&amp;amp;cd=vfe&amp;amp;opi=89978449&amp;amp;ved=0CBMQjRxqFwoTCKC-9YH59oQDFQAAAAAdAAAAABAE.ly/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Схема&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
