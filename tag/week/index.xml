@@ -5,12 +5,25 @@
     <link>http://localhost:1313/tag/week/</link>
       <atom:link href="http://localhost:1313/tag/week/index.xml" rel="self" type="application/rss+xml" />
     <description>Week</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 15 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Week</title>
       <link>http://localhost:1313/tag/week/</link>
     </image>
+    
+    <item>
+      <title>Дела недели (18-24 Марта)</title>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
+      <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-2/</guid>
+      <description>&lt;h2 id=&#34;скорбим&#34;&gt;Скорбим&lt;/h2&gt;
+&lt;p&gt;Теракт в Crocus City Hall в Подмосковье, атака на Куйбышевский НПЗ, Кирилл Набутов признан иноагентом&lt;/p&gt;
+&lt;p&gt;Более 60 человек погибли в результате теракта в Crocus City Hall в Красногорске. Накануне вечером неизвестные люди, вооруженные автоматами, открыли огонь в концертном зале. В здании произошел пожар, сообщалось о взрывах.&lt;/p&gt;
+&lt;p&gt;После нападения на Crocus City Hall госпитализированы 115 человек, в том числе пять детей, сообщил глава Минздрава РФ Михаил Мурашко.&lt;/p&gt;
+&lt;p&gt;Директор ФСБ Александр Бортников, глава МВД Владимир Колокольцев, председатель СКР Александр Бастрыкин и директор Росгвардии Виктор Золотов доложили президенту РФ Владимиру Путину о расследовании теракта в Подмосковье.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Дела недели (11-17 Марта)</title>
