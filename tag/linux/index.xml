@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux | Academic</title>
+    <link>http://localhost:1313/tag/linux/</link>
+      <atom:link href="http://localhost:1313/tag/linux/index.xml" rel="self" type="application/rss+xml" />
+    <description>Linux</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Linux</title>
+      <link>http://localhost:1313/tag/linux/</link>
+    </image>
+    
+    <item>
+      <title>Внешние курсы</title>
+      <link>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B-/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B-/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
