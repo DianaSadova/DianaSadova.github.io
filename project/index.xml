@@ -2,55 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Projects | Academic</title>
-    <link>http://localhost:1313/project/</link>
-      <atom:link href="http://localhost:1313/project/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/en/project/</link>
+      <atom:link href="http://localhost:1313/en/project/index.xml" rel="self" type="application/rss+xml" />
     <description>Projects</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Projects</title>
-      <link>http://localhost:1313/project/</link>
+      <link>http://localhost:1313/en/project/</link>
     </image>
     
     <item>
       <title>Learning C&#43;&#43;</title>
-      <link>http://localhost:1313/project/c&#43;&#43;/</link>
+      <link>http://localhost:1313/en/project/c&#43;&#43;/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/c&#43;&#43;/</guid>
+      <guid>http://localhost:1313/en/project/c&#43;&#43;/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Java</title>
-      <link>http://localhost:1313/project/java/</link>
+      <link>http://localhost:1313/en/project/java/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/java/</guid>
+      <guid>http://localhost:1313/en/project/java/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Learning Python</title>
-      <link>http://localhost:1313/project/python/</link>
+      <link>http://localhost:1313/en/project/python/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Внешние курсы</title>
-      <link>http://localhost:1313/project/%D0%B2%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/%D0%B2%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B/</guid>
-      <description>&lt;p&gt;Ссылка на отчеты&lt;/p&gt;
-&lt;p&gt;external_link: &lt;a href=&#34;https://disk.yandex.ru/client/disk/Stepik&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://disk.yandex.ru/client/disk/Stepik&lt;/a&gt;&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Внешние курсы</title>
-      <link>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B1/</link>
-      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B1/</guid>
+      <guid>http://localhost:1313/en/project/python/</guid>
       <description></description>
     </item>
     
