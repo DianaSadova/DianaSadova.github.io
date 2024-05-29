@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Demo | Academic</title>
-    <link>http://localhost:1313/en/category/demo/</link>
-      <atom:link href="http://localhost:1313/en/category/demo/index.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:1313/category/demo/</link>
+      <atom:link href="http://localhost:1313/category/demo/index.xml" rel="self" type="application/rss+xml" />
     <description>Demo</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>ru</language><lastBuildDate>Sun, 31 Mar 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Demo</title>
-      <link>http://localhost:1313/en/category/demo/</link>
+      <link>http://localhost:1313/category/demo/</link>
     </image>
     
     <item>
       <title>Дела недели (15-21 Апреля)</title>
-      <link>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-3/</link>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-3/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-3/</guid>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-3/</guid>
       <description>&lt;h2 id=&#34;учеба&#34;&gt;Учеба&lt;/h2&gt;
 &lt;p&gt;Порой нам не хватает мотивацим, чтобы начать заниматься, делать домашнее задание, постоянно отвлекаемся на другие дела и совсем не хочется браться за учебники. В такой ситуации нам нужен какой-то толчек, чтобы вспомнить о важности учебы, который побудит нас двигаться к своей цели. Далее, представленные мои мотивации учится и совершенствоватся&lt;/p&gt;
 &lt;ol&gt;
@@ -37,9 +37,9 @@
     
     <item>
       <title>Дела недели (18-24 Марта)</title>
-      <link>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-2/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-2/</guid>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-2/</guid>
       <description>&lt;h2 id=&#34;скорбим&#34;&gt;Скорбим&lt;/h2&gt;
 &lt;p&gt;Теракт в Crocus City Hall в Подмосковье, атака на Куйбышевский НПЗ, Кирилл Набутов признан иноагентом&lt;/p&gt;
 &lt;p&gt;Более 60 человек погибли в результате теракта в Crocus City Hall в Красногорске. Накануне вечером неизвестные люди, вооруженные автоматами, открыли огонь в концертном зале. В здании произошел пожар, сообщалось о взрывах.&lt;/p&gt;
@@ -50,9 +50,9 @@
     
     <item>
       <title>Дела недели (29 Апреля - 5 Мая)</title>
-      <link>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-4/</link>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-4/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-4/</guid>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-4/</guid>
       <description>&lt;h2 id=&#34;пасха&#34;&gt;Пасха&lt;/h2&gt;
 &lt;p&gt;Пасха — главный христианский праздник. Его празднуют все, но по-разному: традиции православных и католиков в этот день разительно отличаются. А еще она постоянно выпадает на разные даты. О том, когда будет Пасха в 2024 году, кто и как ее празднует, — в нашем материале.&lt;/p&gt;
 &lt;h2 id=&#34;когда-празднуется-пасха&#34;&gt;Когда празднуется Пасха&lt;/h2&gt;
@@ -78,9 +78,9 @@
     
     <item>
       <title>Оформление отчёта</title>
-      <link>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE%D1%82%D1%87%D0%B5%D1%82/</link>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE%D1%82%D1%87%D0%B5%D1%82/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE%D1%82%D1%87%D0%B5%D1%82/</guid>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BE%D1%82%D1%87%D0%B5%D1%82/</guid>
       <description>&lt;h2 id=&#34;оформление-отчёта&#34;&gt;Оформление отчёта&lt;/h2&gt;
 &lt;p&gt;Я оформляю отчеты в Markdown так. что пост будет о нем.&lt;/p&gt;
 &lt;p&gt;Для любой работы вам следует прочитать критерии работы с ответом. Они могут разнится от преподавателя к преподавателю, от компании к компании, так что всегла читайте данные бумаги это поможет не допускать ошибок при работе.&lt;/p&gt;
@@ -147,9 +147,9 @@
     
     <item>
       <title>Язык разметки Markdown</title>
-      <link>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-markdown/</link>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-markdown/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-markdown/</guid>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-markdown/</guid>
       <description>&lt;h2 id=&#34;markdown-что-это&#34;&gt;Markdown. Что это?&lt;/h2&gt;
 &lt;p&gt;Markdown, или маркдаун, — это язык разметки для текстовых документов. Он позволяет создавать тексты без использования Word и других редакторов. Разметку можно прочитать и воспроизвести в любой системе или браузере.&lt;/p&gt;
 &lt;h2 id=&#34;как-пользоваться-языком-разметки&#34;&gt;Как пользоваться языком разметки?&lt;/h2&gt;
@@ -193,9 +193,9 @@
     
     <item>
       <title>Языки научного программирования</title>
-      <link>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</link>
       <pubDate>Sun, 31 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-%D0%BD%D0%B0%D1%83%D1%87%D0%BD%D0%BE%D0%B3%D0%BE-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F/</guid>
       <description>&lt;h2 id=&#34;язык-программирования&#34;&gt;Язык программирования&lt;/h2&gt;
 &lt;p&gt;Язык программирования — формальный язык, предназначенный для записи компьютерных программ. Язык программирования определяет набор лексических, синтаксических и семантических правил, определяющих внешний вид программы и действия, которые выполнит исполнитель (обычно — ЭВМ) под её управлением.&lt;/p&gt;
 &lt;p&gt;Со времени создания первых программируемых машин человечество придумало более восьми тысяч языков программирования (включая эзотерические). Каждый год их число увеличивается. Некоторыми языками умеет пользоваться только небольшое число их собственных разработчиков, другие становятся известны миллионам людей. Профессиональные программисты могут владеть несколькими языками программирования.&lt;/p&gt;
@@ -213,9 +213,9 @@
     
     <item>
       <title>Дела недели (11-17 Марта)</title>
-      <link>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-1/</link>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-1/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-1/</guid>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-1/</guid>
       <description>&lt;h2 id=&#34;8-марта&#34;&gt;8 Марта&lt;/h2&gt;
 &lt;p&gt;Всемирный женский день начался неожиданно. Мужщины нашей групп договарились и подарили нам подарки. В начале дня, всему женскому колективу преподнести цветы и, в качестве бонуса, два тортика. Неделя началась очень с неожиданных подарков&lt;/p&gt;
 &lt;h2 id=&#34;масленица&#34;&gt;Масленица&lt;/h2&gt;
@@ -226,9 +226,9 @@
     
     <item>
       <title>Управление версиями. Git.</title>
-      <link>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-git/</link>
+      <link>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-git/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/post/%D0%BF%D0%BE%D1%81%D1%82-git/</guid>
+      <guid>http://localhost:1313/post/%D0%BF%D0%BE%D1%81%D1%82-git/</guid>
       <description>&lt;h2 id=&#34;управление-версиями&#34;&gt;Управление версиями&lt;/h2&gt;
 &lt;p&gt;Что такое «Управление версиями»? Почему это так важно?&lt;/p&gt;
 &lt;p&gt;Система контроля версий — это система, записывающая изменения в файл или набор файлов в течение времени и позволяющая вернуться позже к определённой версии&lt;/p&gt;
