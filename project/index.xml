@@ -38,9 +38,19 @@
     
     <item>
       <title>Внешние курсы</title>
-      <link>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B-/</link>
+      <link>http://localhost:1313/project/%D0%B2%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B/</link>
       <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B-/</guid>
+      <guid>http://localhost:1313/project/%D0%B2%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B/</guid>
+      <description>&lt;p&gt;Ссылка на отчеты&lt;/p&gt;
+&lt;p&gt;external_link: &lt;a href=&#34;https://disk.yandex.ru/client/disk/Stepik&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;https://disk.yandex.ru/client/disk/Stepik&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Внешние курсы</title>
+      <link>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B1/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/project/%D0%B2%D0%BD%D0%B5%D1%88%D0%BD%D0%B8%D0%B5_%D0%BA%D1%83%D1%80%D1%81%D1%8B1/</guid>
       <description></description>
     </item>
     
